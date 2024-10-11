@@ -36,4 +36,15 @@ nav ul li {
 
 nav ul li a {
   text-decoration: none;
+  color: #000;
+}
+
+nav ul li a:hover {
+  color: #060;
+  text-decoration: overline;
+}
+
+/* working with the span tag */
+.highlight {
+  color: red;
 }
